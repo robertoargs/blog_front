@@ -1,0 +1,20 @@
+.cardImg {
+  width: 350px;
+
+}
+
+.propsCard {
+  text-align: center;
+  width: 350px;
+}
+
+.btnPost {
+  background-color: rgba(64,64,64);
+  border: none;
+}
+
+.postLink:hover, .postLink, .btnPost:hover {
+  text-decoration: none !important;
+  color: white;
+  background-color: rgba(64,64,64);
+}
